@@ -1,0 +1,15 @@
+{
+    "name": "stiffbeards/browser",
+    "description": "",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0",
+        "symfony/dom-crawler": "2.4.1",
+        "symfony/css-selector": "2.4.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Browser": "lib/"
+        }
+    }
+}
